@@ -1,0 +1,5 @@
+# Un-ignore the custom plugin
+!wp-content/plugins/custom-grid/
+
+# Ignore all plugins
+plugins/*
